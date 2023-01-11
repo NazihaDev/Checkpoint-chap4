@@ -8,3 +8,15 @@
 
 Be creative !
 
+## Les imprimes-écran
+### Nav bar
+![Alt text](image/1.png)
+
+### Section about
+![Alt text](image/2.png)
+
+### Section work
+![Alt text](image/3.png)
+
+### Section contact & footer
+![Alt text](image/4.png)
